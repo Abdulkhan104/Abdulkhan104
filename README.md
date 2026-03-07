@@ -22,33 +22,6 @@
 
 </div> -->
 
----
-
-## 🧠 About Me
-
-```yaml
-name: Abdul Khan
-title: Aspiring DevOps & Cloud Engineer
-location: Hyderabad, India
-education: B.Tech in Information Technology | CGPA 9.1
-
-focus:
-  - Multi-Cloud Architecture (AWS · Azure · GCP)
-  - CI/CD Pipeline Design & Automation
-  - Container Orchestration (Docker · Kubernetes)
-  - Infrastructure as Code (Terraform · Ansible)
-  - Observability & Monitoring (Prometheus · Grafana · Loki)
-
-currently_learning:
-  - Machine Learning & AI
-  - Advanced Multi-Cloud Strategies
-  - GitOps with ArgoCD
-
-fun_fact: "I automate everything — even my coffee ☕ (almost)"
-```
-
----
-
 ## ☁️ Cloud & DevOps Arsenal
 
 <div align="center">
