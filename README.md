@@ -51,46 +51,86 @@ fun_fact: "I automate everything — even my coffee ☕ (almost)"
 
 ## ☁️ Cloud & DevOps Arsenal
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 
-### Cloud Providers
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=8" />
+**☁️ Cloud Providers**
 
-### Infrastructure as Code & Automation
-<img src="https://skillicons.dev/icons?i=terraform,ansible&perline=8" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=6" />
 
-### Containers & Orchestration
-<img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=8" />
+</td>
+<td width="50%" valign="top" align="center">
 
-### CI/CD & GitOps
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,git&perline=8" />
+**🏗️ Infrastructure as Code & Automation**
+
+<img src="https://skillicons.dev/icons?i=terraform,ansible&perline=6" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**🐳 Containers & Orchestration**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=6" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**🔄 CI/CD & GitOps**
+
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,git&perline=6" />
 <br/>
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 
-### Monitoring & Observability
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=8" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**📊 Monitoring & Observability**
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=6" />
 <br/>
 <img src="https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=8" />
+</td>
+<td width="50%" valign="top" align="center">
 
-### Dev Stack
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=6" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**🧑‍💻 Dev Stack**
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,python,js,html,css,tailwind&perline=8" />
 
-### OS & Networking
-<img src="https://skillicons.dev/icons?i=linux&perline=8" />
+</td>
+<td width="50%" valign="top" align="center">
+
+**🐧 OS & Networking**
+
+<img src="https://skillicons.dev/icons?i=linux&perline=6" />
 <br/>
 <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/RBAC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Security%20Groups-FF4B4B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/RBAC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security%20Groups-FF4B4B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -149,7 +189,7 @@ fun_fact: "I automate everything — even my coffee ☕ (almost)"
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" />
 </div>
@@ -160,7 +200,7 @@ fun_fact: "I automate everything — even my coffee ☕ (almost)"
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</div> -->
+</div>
 
 ---
 
