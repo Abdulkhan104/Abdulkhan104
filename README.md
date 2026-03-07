@@ -51,7 +51,7 @@ fun_fact: "I automate everything — even my coffee ☕ (almost)"
 
 ## ☁️ Cloud & DevOps Arsenal
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td width="50%" valign="top" align="center">
 
