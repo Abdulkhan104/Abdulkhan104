@@ -1,6 +1,5 @@
 <div align="center">
   <!-- Your photo: Replace with your image URL -->
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="180" height="180" style="border-radius: 50%; border: 4px solid #000;" alt="Your Name" />
   
   <h1>Hi 👋, I'm Abdul</h1>  <!-- Change to your name --
   
