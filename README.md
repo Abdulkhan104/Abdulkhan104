@@ -149,7 +149,7 @@ fun_fact: "I automate everything — even my coffee ☕ (almost)"
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" />
 </div>
@@ -160,7 +160,7 @@ fun_fact: "I automate everything — even my coffee ☕ (almost)"
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</div>
+</div> -->
 
 ---
 
