@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile badges -->
-<a href="mailto:abdulkhan333c@gmail.com">
+<!-- <a href="mailto:abdulkhan333c@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-abdulkhan333c-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/abdul-khan-0602082a1">
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
-</div>
+</div> -->
 
 ---
 
@@ -103,64 +103,7 @@ fun_fact: "I automate everything — even my coffee ☕ (almost)"
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 WonderLust — Travel Platform
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-> Full-stack travel website built with a 6-member team. Developed backend APIs, managed MongoDB, and implemented secure authentication with a scalable backend architecture.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎵 Music Streaming — Microservices
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-> Spotify-like app using microservices architecture. Built with Node.js, Express, TypeScript. Deployed on AWS (EC2, Route 53, PM2) with full CI/CD pipelines, MongoDB, PostgreSQL, and Redis.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Monolithic E-Commerce Platform
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-> Full-stack e-commerce app during a 6-month internship. Backend in Spring Boot & Spring MVC with Hibernate ORM, Maven for build management, SQL database management, React frontend styled with Tailwind CSS.
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ AWS Cloud Deployments
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
-
-> Hands-on deployment and management of cloud infrastructure including EC2, S3, RDS, VPCs, and IAM. Focus on security, scalability, and cost optimization.
-
-</td>
-</tr>
-</table>
-</div>
-
-
-## 🌐 Connect with Me
+🌐 Connect with Me
 
 <div align="center">
 
