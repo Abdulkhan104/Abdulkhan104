@@ -80,39 +80,6 @@
 
 ---
 
-## 🚀 Projects
-
-<div align="center">
-
-###  [Roomii-Wonder](https://github.com/Abdulkhan104/Roomiii)
-
-> **Find the nearest Hostels, PGs & Restaurants around you — instantly.**
-
-A full-stack location-based discovery platform that helps users search for nearby rental hostels, PGs, and restaurants with ease.
-
-| Layer | Technology |
-|---|---|
-| **Frontend** | React.js |
-| **Backend** | Express.js (Node.js) |
-| **Database** | MongoDB |
-| **Cache** | Redis |
-| **Deployment** | AWS (EC2, ASG, ALB, Target Groups) |
-| **Storage** | S3 |
-| **CDN** | CloudFront |
-| **DNS** | Route 53 + ACM (SSL) |
-| **Monitoring** | CloudWatch |
-| **IAM** | Roles & Policies |
-| **Networking** | VPC |
-| **CI/CD** | GitHub Actions |
-
-<a href="https://github.com/Abdulkhan104/Roomiii">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 ##  Connect with Me
 
 <div align="center">
