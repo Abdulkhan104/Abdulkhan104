@@ -59,7 +59,7 @@ https://www.linkedin.com/in/abdul-khan-0602082a1/
 
 ##  Connect with Me
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://www.linkedin.com/in/abdul-khan-0602082a1/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -77,4 +77,28 @@ https://www.linkedin.com/in/abdul-khan-0602082a1/
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-</div>
+</div> -->
+
+
+<!-- Animated rotating social strip -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-khan-0602082a1/">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br/>
+  <a href="mailto:abdulkhan333c@gmail.com">
+    <img src="https://img.shields.io/badge/Say_Hi_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br/>
+  <a href="https://github.com/Abdulkhan104">
+    <img src="https://img.shields.io/badge/Check_my_Code_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
