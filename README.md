@@ -31,7 +31,7 @@
 👋 Hi, I'm **Abdul Khan**. I love exploring cutting-edge technologies and building impactful projects. 
 And Now Currently, I'm training as a **DevOps Trainer at NareshIT**, Teaching on real-world cloud deployments, and diving deeper into infrastructure automation and CI/CD pipelines.
 
-
+https://www.linkedin.com/in/abdul-khan-0602082a1/
 <div align="center">
 
 ** Cloud Providers** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ** IaC & Automation**
