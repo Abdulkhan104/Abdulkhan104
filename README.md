@@ -28,7 +28,8 @@
 
 ##  About Me
 
-👋 Hi, I'm **Abdul Khan**. I love exploring cutting-edge technologies and building impactful projects. Currently, I'm training as a **DevOps Engineer at NareshIT**, working on real-world cloud deployments, and diving deeper into infrastructure automation and CI/CD pipelines.
+👋 Hi, I'm **Abdul Khan**. I love exploring cutting-edge technologies and building impactful projects. 
+And Now Currently, I'm training as a **DevOps Trainer at NareshIT**, Teaching on real-world cloud deployments, and diving deeper into infrastructure automation and CI/CD pipelines.
 
 ---
 
