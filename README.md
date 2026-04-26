@@ -89,7 +89,7 @@ https://www.linkedin.com/in/abdul-khan-0602082a1/
   </picture>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/abdul-khan-0602082a1/">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -101,4 +101,4 @@ https://www.linkedin.com/in/abdul-khan-0602082a1/
   <a href="https://github.com/Abdulkhan104">
     <img src="https://img.shields.io/badge/Check_my_Code_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</p> -->
