@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/abdul-khan-0602082a1/">
+ <a href="https://www.linkedin.com/in/abdul-khan-0602082a1/">
   <!-- <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> -->
 </a>
 &nbsp;
@@ -31,7 +31,7 @@
 👋 Hi, I'm **Abdul Khan**. I love exploring cutting-edge technologies and building impactful projects. 
 And Now Currently, I'm training as a **DevOps Trainer at NareshIT**, Teaching on real-world cloud deployments, and diving deeper into infrastructure automation and CI/CD pipelines.
 
-https://www.linkedin.com/in/abdul-khan-0602082a1/
+                                              https://www.linkedin.com/in/abdul-khan-0602082a1/
 <div align="center">
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
