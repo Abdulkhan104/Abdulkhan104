@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+CloudOps Engineer -1 +%40+Tech Vedika+%F0%9F%9A%80;AWS+%7C+Azure+%7C+GCP+Practitioner+%E2%98%81%EF%B8%8F;CI%2FCD+Pipeline+Architect+%F0%9F%94%A7;Kubernetes+%26+Docker+Enthusiast+%F0%9F%90%B3;Infrastructure+as+Code+Advocate+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+CloudOpsEngineer1 +%40+TechVedika+%F0%9F%9A%80;AWS+%7C+Azure+%7C+GCP+Practitioner+%E2%98%81%EF%B8%8F;CI%2FCD+Pipeline+Architect+%F0%9F%94%A7;Kubernetes+%26+Docker+Enthusiast+%F0%9F%90%B3;Infrastructure+as+Code+Advocate+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
